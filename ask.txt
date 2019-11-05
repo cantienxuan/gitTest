@@ -2,4 +2,10 @@ PRISMATIX là gì? (Tìm đc 1 web tên vậy? bôi màu req của bse)
 Review lại như mới ? (rule code test Metropolis)
 Rule đặt tên method test của msc -> quan điểm ở đây là gì?
 Rule khi PR? PR Là gì? project release?
+<<<<<<< HEAD
 ?
+=======
+NOPDM?
+asas
+xuannn?
+>>>>>>> 0006064c8dc3835e3530dda1ed3e255fac3b44b6
