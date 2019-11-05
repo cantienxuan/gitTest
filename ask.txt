@@ -4,3 +4,4 @@ Rule đặt tên method test của msc -> quan điểm ở đây là gì?
 Rule khi PR? PR Là gì? project release?
 NOPDM?
 asas
+xuannn?
